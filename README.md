@@ -1,4 +1,17 @@
+Instalando CREATE-REACT-APP In the project directory, you can run:
+
+npm install -g create-react-app
+Criando um novo projeto
+
+create-react-app nome--projeto
+Executando VSCode como Administrador
+
+sudo code --user-data-dir
+Instalar Axios
+
+npm install --save axios
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
